@@ -1,7 +1,7 @@
 # Details
 - **Name:** Norbert Horváth
-- **School:** Computer Science Engineering sudent at University of Debrecen
-- **Work:** Intern at NI Hungary
+- **Work:** Entry Software Engineer at NI Hungary
+- **Education:** Computer Science Engineering BSc
 
 ## Main programming languages
 
